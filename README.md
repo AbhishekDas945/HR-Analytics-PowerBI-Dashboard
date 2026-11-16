@@ -13,11 +13,7 @@ This repository hosts an interactive **HR Analytics Dashboard Report** developed
 ---
 
 ## 🖼️ Dashboard Preview
-> 💡 *Replace `dashboard_preview.png` below with the exact file path of your uploaded screenshot in the repository.*
-
-<img src = " " alt = " " width = "1000">
-
-![Blinkit Power BI Dashboard](dashboard_preview.png)
+<img src = "https://github.com/AbhishekDas945/HR-Analytics-PowerBI-Dashboard/blob/1bb687b5dd1bb61dcb9d48b67be3836ddff52686/Screenshot%202026-11-16%20185908.png" alt = "HR Analytics Dashboard Report" width = "1000">
 
 ---
 
